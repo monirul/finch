@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="contrib/logo/Finch_Horizontal_White.svg">
-  <source media="(prefers-color-scheme: light)" srcset="contrib/logo/Finch_Horizontal_Black.svg">
+  <source media="(prefers-color-scheme: normal)" srcset="contrib/logo/Finch_Horizontal_Black.svg">
   <img alt="Finch logo" width=40% height=auto src="contrib/logo/Finch_Horizontal_Black.svg">
 </picture>
 
